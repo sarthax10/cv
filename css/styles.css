@@ -133,11 +133,13 @@ hr {
 
 .footer-link {
   padding: 0 10px 0 10px;
+  font-size: 1em;
 }
 
 .footer-img{
   width: 7%;
   margin-bottom: 50px;
+  text-decoration: none;
 }
 
 .© {
