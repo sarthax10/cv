@@ -133,7 +133,6 @@ hr {
 
 .footer-link {
   padding: 0 10px 0 10px;
-  font-size: 1em;
 }
 
 .footer-img{
@@ -144,6 +143,6 @@ hr {
 
 .© {
   color: #EAF6F6;
-  font-size: 20px;
+  font-size: 1em;
 
 }
